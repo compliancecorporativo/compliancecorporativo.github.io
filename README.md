@@ -1,5 +1,5 @@
-# JFBDP
-Static website hosted in Github through SSL to share my professional information :)
+# Luis Fernando Barrera
+Compliance Corporativo S.A.S.
 
 Developed using Hugo with a custom theme.
 

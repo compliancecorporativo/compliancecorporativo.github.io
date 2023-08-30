@@ -1,17 +1,15 @@
 ---
-title: ABOUT
-description: Hey, I'm Jose
+title: Quiénes somos?
+description: Hey, I'm Luis
 images: ["/images/radar_chart.png"]
 ---
 
-Hi stranger :wave:
+Somos expertos en asuntos Mineros y Ambientales. Asesor, capacitadores y consultores de empresas mineras. Oficiales de Cumplimiento Normativo Certificados en el Sistema de gestión de riesgos LA/FT/FPADM, Auditores en gestión de riesgos LA/FT. 
 
-__TL;DR__ Know me better through a {{% link_opens_new_tab link="/images/radar_chart.png" %}}graph{{% /link_opens_new_tab %}} inspired by {{% link_opens_new_tab link="https://www.linkedin.com/feed/update/urn:li:activity:7066279024632709120?utm_source=share&utm_medium=member_desktop" %}}Ketan Gangal{{% /link_opens_new_tab %}}.
+Especializados en Control al Lavado de activos, financiación al terrorismo y Control de riesgos de Corrupción y Soborno trasnacional, Master en Compliance Corporativo Y Blanqueo de Capitales y Miembro del World Compliance Association W.C.A. Capítulo Colombia.
 
-I am Jose Fernando Barrera De Plaza, holding a master's degree in Economics with a specialization in Computational Mathematics. My academic pursuits revolve around a data-driven approach aimed at quantifying and elucidating phenomena through modeling and empirical research. I possess a robust programming background, proficient in diverse languages and software applications such as Python, Java, Stata, SQL, R, and Excel (including VBA Macros). Moreover, I have acquired proficiency in various visualization and storytelling tools such as Beamer in LaTeX, Business Intelligence (BI) platforms, and Looker Studio.
+En nuestras experiencias hemos participado en el sector público y privado, entre otras, secretario general de Mineralco S.A., director ejecutivo de la Federación Nacional de Productores de Carbón FENALCARBON. 
 
-Currently, I am actively engaged in interdisciplinary research encompassing social sciences and computational domains. My professional experience spans working with prominent international organizations like the World Bank, the International Migration Organization (IMO), as well as collaborating with multiple governments. In these roles, I have successfully employed cutting-edge natural language processing (NLP) models based on word embeddings and language transformers to identify and address online hate speech.
+Hemos participado como Asesores y consultores en asuntos mineros, en mesas de trabajo ante el Senado de la República, estudio en la apertura y liquidación empresariales y Oficial de cumplimiento Principales, director compliance corporativo, abogado asesores y consultores independientes del sector real en cumplimiento normativo del SAGRILAFT, SIPLAFT, PTEE y Política de Tratamiento de Datos.  
 
-As a skilled programmer, I have had the opportunity to develop API resources at an industry-level, constructing and maintaining well-documented API REST endpoints for clients using tools like Swagger IO. Additionally, I have extensive experience in designing and managing Extract, Transform, Load (ETL) processes, leveraging SQL to integrate DataLake resources into cohesive and comprehensive tables.
-
-My research interests currently are convex linear combinations across various disciplines, including but not limited to Computer Science, Data Science, Economics, Machine Learning, Algorithms, Data Analysis, and Natural Language Processing (NLP).
+Actualmente Director Compliance Corporativo de CI GRUPO AZERO SAS., CI ZERO TROPIC SAS., Abogado Asociado CUADRO LEGAL; Presidente Nacional Asociación de Profesionales del Sector Minero colombiano APMC

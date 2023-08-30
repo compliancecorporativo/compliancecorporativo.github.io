@@ -4,14 +4,14 @@ description: My online profile
 images: ["/images/tidytweets_logo.png"]
 ---
 
-Hello! :wave: Nice to see you around!
+**Compliance Corporativo SAS**, es una sociedad especializada en servicios de consultoría y asesoría en cumplimiento normativo y gestión de riesgos. 
 
-I'm Jose Fernando Barrera De Plaza, M.A. in Economics with a high interest in Computer Science and Data Analysis.
+Ofrecemos soluciones integrales y personalizadas para empresas de diferentes sectores y tamaños, con el objetivo de ayudarles a cumplir con las normativas y regulaciones aplicables a su actividad y minimizar los riesgos asociados. 
 
-I programmed this webpage for you to know me better :smile:. Hope we can work or do research together.
+Contamos con un equipo de profesionales altamente capacitados y comprometidos con la excelencia en el servicio al cliente. 
 
-__For P.C. visitors only:__ May you adjust the zoom or <button onclick="openZoom()">open a new page</button>
- with an improved configuration of width and height parameters, this if you don't see my full face :joy:.
+Consultas al correo: compliancecorporativosas@gmail.com
 
+Programas especiales en #SAGRILAFT, #PTEE, #SIPLAFT, Política de Tratamiento de Datos Personales.
 
-[Get to know me better](/about "Get to know me better")
+[¡Conócenos más!](/about "¡Conócenos más!")

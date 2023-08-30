@@ -10,11 +10,11 @@ pygmentsUseClasses=true
 pygmentsCodeFences=true
 
 [params.intro]
-  main = "Hi, I'm Jose :man_technologist:"
-  sub = "M.A. Economics with a Minor in Computational Math | NLP | Developer"
+  main = "Compliance Corporativo S.A.S. :man_judge:"
+  sub = "SAGRILAFT | RMM | SIPLAFT | PTE | COMPLIANCE | CRAFT"
 
 [params.main]
-  latestPublishHeader = "My Python Library Project"
+  latestPublishHeader = "Publicación más reciente de Compliance Corporativo:"
 
 [taxonomies]
   design = "designs"
@@ -27,7 +27,7 @@ pygmentsCodeFences=true
 [params]
   breadcrumb = true
   accentColor = "#FD3519"
-  mainSections = ['portfolio'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
+  mainSections = ['post'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
   rendererSafe = false # set to true if wish to remove the unsafe renderer setting below (recommended). Titles will not be run through markdownify
 
 [params.notFound]
@@ -42,17 +42,17 @@ pygmentsCodeFences=true
   portfolio = "project"
 
 [params.sidebar]
-  backgroundImage = '/images/side_bar.jpg' # Foto de Alexandre Debiève en Unsplash -- header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
+  backgroundImage = "/images/side_bar.jpg" # Foto de Alexandre Debiève en Unsplash -- header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
   gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-  logo = "/images/jose_fdo.jpg" # - default "/images/edna-west.jpg"
+  logo = "/images/logo_compliance_corporativo.png" # - default "/images/edna-west.jpg"
 [params.assets]
   favicon = ""
   customCSS = ""
 
 [params.social]
-  github = "https://github.com/terrok9"
+  #github = "https://github.com/terrok9"
   #twitter = "https://twitter.com/"
-  linkedin = "https://www.linkedin.com/in/jfbdp"
+  linkedin = "https://www.linkedin.com/in/luis-barrera-abogado/"
   #medium = "https://medium.com/"
   #codepen = "https://codepen.io/"
   #facebook = "https://www.facebook.com/"
@@ -62,46 +62,46 @@ pygmentsCodeFences=true
   #keybase = "https://keybase.io/"
 
 [params.contact]
-  email = "jf.barrera10@uniandes.edu.co"
-  text= "Write me an E-mail" # text of the contact link in the sidebar. If email params.contact.email is defined
+  email = "compliancecorporativosas@gmail.com"
+  text= "Escríbenos un correo (E-mail)" # text of the contact link in the sidebar. If email params.contact.email is defined
 
 
 [menu]
 
 [[menu.main]]
   identifier = "about"
-  name = "About"
-  title = "About section"
+  name = "Quiénes somos?"
+  title = "Quiénes somos?"
   url = "/about/"
   weight = -120
 
-[[menu.main]]
-  identifier = "portfolio"
-  name = "Portfolio"
-  title = "Portfolio"
-  url = "/portfolio/"
-  weight = -110
-
-[[menu.main]]
-  identifier = "teaching"
-  name = "Teaching"
-  title = "Teaching"
-  url = "/teaching/"
-  weight = -100
-  
-[[menu.main]]
-  identifier = "Courses"
-  name = "Courses"
-  title = "Relevant Courses"
-  url = "/courses/"
-  weight = -90
+##[[menu.main]]
+##  identifier = "portfolio"
+##  name = "Portfolio"
+##  title = "Portfolio"
+##  url = "/portfolio/"
+##  weight = -110
 
 ##[[menu.main]]
-##  identifier = "blog"
-##  name = "Posts"
-##  title = "Blog section"
-##  url = "/post/"
-##  weight = -80
+##  identifier = "teaching"
+##  name = "Teaching"
+##  title = "Teaching"
+##  url = "/teaching/"
+##  weight = -100
+  
+##[[menu.main]]
+##  identifier = "Courses"
+##  name = "Courses"
+##  title = "Relevant Courses"
+##  url = "/courses/"
+##  weight = -90
+
+[[menu.main]]
+  identifier = "blog"
+  name = "Publicaciones"
+  title = "Publicaciones"
+  url = "/post/"
+  weight = -80
 
 
 
