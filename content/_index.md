@@ -1,6 +1,6 @@
 ---
-title: HOME
-description: My online profile
+title: Inicio
+description: Compliance Corporativo S.A.S.
 images: ["/images/tidytweets_logo.png"]
 ---
 
