@@ -1,8 +1,8 @@
-baseURL = "https://terrok9.github.io/"
+baseURL = "https://compliancecorporativo.github.io/"
 languageCode = "en-us"
 title = "Home"
 theme = "personal-web"
-copyright="© Edna West: for theme usage search personal-web on Github"
+copyright="© Edna West: for theme usage search personal-web on Github. Jose Fernando Barrera page building and deployment."
 googleAnalytics = ""
 enableEmoji=true
 enableRobotsTXT=true

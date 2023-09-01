@@ -1,13 +1,13 @@
 ---
 title: ¿NECESIDAD DE ACTUALIZAR LOS MINERALES ESTRATÉGICOS EN COLOMBIA?
 description: Para iniciar este proceso, debemos definir claramente qué minerales se consideran estratégicos para Colombia y replantear con ellos, el mejoramiento económico y el desarrollo del país.
-date: 2023-09-01T28:18:12+01:00
-publishDate: 2023-09-01T12:12:12+01:00
+date: 2023-09-01T00:00:12+01:00
+publishDate: 2023-09-01T00:00:12+01:00
 ---
 **¿NECESIDAD DE ACTUALIZAR LOS MINERALES ESTRATÉGICOS EN COLOMBIA?**
 
 Para iniciar este proceso, debemos definir claramente qué minerales se consideran estratégicos para Colombia y replantear con ellos, el mejoramiento económico y el desarrollo del país. Su uso industrial, la seguridad nacional y otros criterios relevantes y necesarios bajo los vectores de transición energética, seguridad alimentaria, desarrollo industrial y de la infraestructura pública, abastecimiento y promoción de la asociatividad.
-
+<!--more-->
 En mi criterio y como análisis de los posibles lineamientos, invito al Gobierno Nacional y al Sector Minero Colombiano a tener en cuenta los siguientes conceptos y lineamientos necesarios para cumplir las variables Técnicas, Económicas, Sociales, Ambientales y legalmente responsables. (T.E.S.A.L.)
 
 1.	**Marco Legal y Regulatorio:** El Estado debe establecer un marco legal sólido, que regula la exploración, explotación y exportación de los minerales estratégicos. Esto debe incluir licencias, permisos y regulaciones mineras, ambientales y sociales apropiadas para garantizar un desarrollo sostenible y responsable.
