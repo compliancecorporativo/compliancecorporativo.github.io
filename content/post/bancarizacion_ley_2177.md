@@ -5,14 +5,15 @@ date: 2023-09-02T00:00:12+01:00
 publishDate: 2023-09-02T00:00:12+01:00
 ---
 **Ley 2177 del 30 de diciembre de 2021**
+
 **Análisis de contexto.**
-<!--more-->
 
 **PRINCIPIOS Y COMPROMISOS EN LA LEY DE BANCARIZACIÓN** 
 
 **BUENAS PRACTICAS Y ÉTICA EMPRESARIAL**
 
 Uno de los mayores problemas y retos de la ley de bancarización tiene que ver con el acceso de las empresas mineras a la Banca Privada.
+<!--more-->
 
 Hemos encontrado por parte de la banca pública, en este caso el **Banco Agrario Colombiano y su dirección de Cumplimiento**, gran asertividad y compromiso con el sector, ya que viene adelantando procesos de Identificación, Medición, Evaluación, Control y Monitoreo, procesos necesarios para la valoración financiera del sector minero. 
 
