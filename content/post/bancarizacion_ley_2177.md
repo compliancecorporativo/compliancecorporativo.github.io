@@ -6,7 +6,7 @@ publishDate: 2023-09-02T00:00:12+01:00
 ---
 **Ley 2177 del 30 de diciembre de 2021**
 
-**Análisis de contexto por Luis Fernando Barrera Martínez.**
+**Análisis de contexto por Luis Fernando Barrera Martínez, director Compliance Corporativo S.A.S.**
 
 **PRINCIPIOS Y COMPROMISOS EN LA LEY DE BANCARIZACIÓN** 
 
