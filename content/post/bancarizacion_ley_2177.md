@@ -6,7 +6,7 @@ publishDate: 2023-09-02T00:00:12+01:00
 ---
 **Ley 2177 del 30 de diciembre de 2021**
 
-**Análisis de contexto.**
+**Análisis de contexto por Luis Fernando Barrera Martínez.**
 
 **PRINCIPIOS Y COMPROMISOS EN LA LEY DE BANCARIZACIÓN** 
 
@@ -128,3 +128,7 @@ La inadmisión o rechazo de la solicitud de bancarización por parte de las enti
 En tal virtud, el Banco Agrario remitirá la información suministrada por el cliente y/o peticionario a la Superintendencia Financiera de Colombia o Superintendencia de Economía Solidaria, para determinar si hubo mala fe, contumacia, malas prácticas en la prestación del servicio bancario, o conducta irregular encaminada a la inaplicabilidad de lo que constituye el objeto de la presente ley. Todo lo anterior en concordancia con el Estatuto Orgánico del Sistema Financiero. 
 
 El solicitante del servicio bancario podrá interponer directamente denuncias ante las superintendencias en contra de los bancos que incumplan con la apertura, si el mismo ha cumplido con los requisitos establecidos por el banco para la apertura de la misma y se la han negado. De igual manera procederá cuando le nieguen a la entrega del formulario de vinculación por pertenecer al sector minero.
+
+**Luis Fernando Barrera Martínez**
+
+**Compliance Corporativo S.A.S.**
