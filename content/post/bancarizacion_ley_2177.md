@@ -97,7 +97,7 @@ Al parecer, los bancos en Colombia del sector privado no hacen este proceso, sin
 
 Los bancos en Colombia deberán identificar las Comercializadoras Internacionales y sus proveedores locales del mineral para general la inclusión financiera conjunta y así verificar los procesos de trazabilidad bancaria, ya que se trata de una cadena de valor necesaria. Analizar el cliente en particular, realizando procesos de debida diligencia a través del SARLAFT y verificando el cumplimiento del SAGRILAFT Y EL PTEE y manuales de conducta según el caso. (misma solución y aplicabilidad del anterior, diferente contexto).
 
-**Que responsabilidades se generan entre las partes: **
+**Que responsabilidades se generan entre las partes:**
 
 De las entidades financieras con el sector minero, en donde las entidades del sector Financiero y Solidario incluirán programas de educación financiera, en especial lo relacionado con el cumplimiento regulatorio, gestión de riesgos, prevención del lavado de activos, financiación del terrorismo, proliferación de armas de destrucción masiva y prácticas de transparencia y ética empresarial y demás temáticas y actividades necesarias.  
 
@@ -111,11 +111,11 @@ La Superintendencia Financiera de Colombia y la Superintendencia de Economía So
 
 La Superintendencia de Sociedades, debería incorporar al cumplimiento del SAGRILAFT régimen de medidas mínimas, a las empresas de mediana minería, los intermediarios formalizados y comercializadores locales para que cumplan con la debida diligencia, el conocimiento del cliente y conocimiento del ultimo beneficiario, ya que en este momento es obligatorio solo para las comercializadoras internacionales y la minería a gran escala. 
 
-**Que cumplimiento realizará el sector minero frente al sistema financiero y asegurador: **
+**Que cumplimiento realizará el sector minero frente al sistema financiero y asegurador:**
 
 Se deberán adoptar e implementar conforme a la reglamentación existente, medidas de gestión de riesgos y/o medidas mínimas (SAGRILAFT PLENO o SAGRILAFT R.M.M. y P.T.E.E. y código de conducta corporativa, según el caso). 
 
-**Procesos de vinculación del sistema financiero y asegurador frente al sector minero: **
+**Procesos de vinculación del sistema financiero y asegurador frente al sector minero:**
 
 Las entidades vigiladas por la S.F.C. y/o por la S.E.S., prestarán los productos y servicios ofrecidos en sus entidades a los sujetos contemplados en el artículo 2 de esta ley, siempre que cumplan con el análisis de riesgo establecido por cada entidad y la normatividad aplicable para su desarrollo. 
 
