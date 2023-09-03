@@ -103,7 +103,12 @@ pygmentsCodeFences=true
   url = "/post/"
   weight = -80
 
-
+[[menu.main]]
+  identifier = "clients"
+  name = "Con quién trabajamos?"
+  title = "Con quién trabajamos?"
+  url = "/clients/"
+  weight = -70
 
 [sitemap]
   changefreq = "monthly"
