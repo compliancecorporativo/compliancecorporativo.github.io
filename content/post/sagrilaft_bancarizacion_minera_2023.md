@@ -32,13 +32,13 @@ Los requisitos para desarrollar este tipo de sistema, pueden variar según la ju
 
 9. **Auditoría interna:** Realizar auditorías internas periódicas para evaluar la efectividad del programa de prevención de LA/FT/FPADM y realizar mejoras si es necesario.
 
-10.**Mantén registros adecuados:** Llevar registros detallados de todas las transacciones y actividades relacionadas con los clientes, de manera que puedas demostrar el cumplimiento de tus políticas y procedimientos.
+10. **Mantén registros adecuados:** Llevar registros detallados de todas las transacciones y actividades relacionadas con los clientes, de manera que puedas demostrar el cumplimiento de tus políticas y procedimientos.
 
-11.**Cooperación con las autoridades:** Colaborar activamente con las autoridades en investigaciones relacionadas con el LA/FT/FPADM y cumple con las solicitudes de información y documentación que le hagan.
+11. **Cooperación con las autoridades:** Colaborar activamente con las autoridades en investigaciones relacionadas con el LA/FT/FPADM y cumple con las solicitudes de información y documentación que le hagan.
 
-12.**Actualización constante:** Mantener el programa de prevención de LA/FT/FPADM actualizado en función de las nuevas regulaciones y cambios en el entorno de riesgo.
+12. **Actualización constante:** Mantener el programa de prevención de LA/FT/FPADM actualizado en función de las nuevas regulaciones y cambios en el entorno de riesgo.
 
-**LUIS FERNANDO BARRERA MARTÍNEZ **
+**LUIS FERNANDO BARRERA MARTÍNEZ**
 
 **TP. 61.444 CSJ** 
 
