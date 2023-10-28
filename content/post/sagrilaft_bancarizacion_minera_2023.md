@@ -4,10 +4,8 @@ description: El desarrollo de un sistema de autocontrol y gestión del riesgo in
 date: 2023-10-27T28:18:12+01:00
 publishDate: 2023-10-27T12:12:12+01:00
 ---
-El desarrollo de un sistema de autocontrol y gestión del riesgo integral del lavado de activos, la financiación al terrorismo y el control al financiamiento a la proliferación de armas de destrucción masiva LA/FT/FPADM, determinado por la Circular Externa 100-000016 de 24 de diciembre de 2020, modificada por las Circulares Externas 100-000004 de 9 de abril de 2021 y 100-000015 de 24 de septiembre de 2021.
-<!--more-->
 El desarrollo de un sistema de autocontrol y gestión del riesgo integral del lavado de activos, la financiación al terrorismo y el control al financiamiento a la proliferación de armas de destrucción masiva LA/FT/FPADM, determinado por la Circular Externa 100-000016 de 24 de diciembre de 2020, modificada por las Circulares Externas 100-000004 de 9 de abril de 2021 y 100-000015 de 24 de septiembre de 2021 , es fundamental para cumplir con las regulaciones y leyes que combaten estas actividades ilegales del sector minero colombiano. 
-
+<!--more-->
 Debemos tener en cuenta que estos son requisitos cumplen con parámetros especializados y pueden variar según el subsector y la jurisdicción, el tipo de empresa su relación con el sector financiero o negocio que esté operando, porque depende del subsector minero a aplicar. Por ello las matrices de riesgo cambian en cada empresa por cuanto las contrapartes son diferentes en cada una de ellas. 
 
 Es fundamental que consulte con asesores legales y expertos en LA/FT/FPADM , para asegurarse de cumplir con todas las regulaciones y leyes aplicables en la situación específica. 
